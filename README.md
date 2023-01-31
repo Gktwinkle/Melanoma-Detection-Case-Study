@@ -70,7 +70,7 @@
 **Contact:**
     Created by;
             1.	Gaurav Kumar --> https://github.com/Gktwinkle,
-            2.	Dipshikha Mudoi --> https://github.com/dipshikhamudoi,
+            2.	Dipshikha Mudoi --> https://github.com/dipsikhamudoi,
             3.	Rohit Mishra --> https://github.com/rohitmishra6300
 
                                                                               - feel free to contact us!
